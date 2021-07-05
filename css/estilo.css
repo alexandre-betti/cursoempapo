@@ -1,0 +1,82 @@
+body {
+    border-color: blue;
+    border: solid;
+    font-family: "Montserrat"
+}
+
+
+#cabeçalho {
+    background-color: blue;
+    height: 420px;
+    color: rgb(229, 241, 230);
+    padding-top: 40px;
+    
+}
+#cabeçalho h1 {
+    font-size: 40px;
+    font-family: "Montserrat-Black";     
+}
+
+#chamada {
+    height: 400px;
+    padding-top: 100px;  
+
+}
+
+#chamada div {
+    width: 400px;
+    float: left;
+}
+
+#professores {
+    background-color: blue;
+    height: 400px;
+    color: rgb(229, 241, 230);
+    padding-top: 20px;
+}
+
+li {
+    display: inline;
+    margin-right: 120px;
+    
+}
+
+#programa {
+    height: 500px;
+    padding-top: 15px;
+}
+
+#condições {
+    background-color: blue;
+    height: 400px;
+    color:rgb(229, 241, 230);
+    padding-top: 40px;
+}
+
+#imagens-professores li {
+    display: inline;
+    margin-right: 160px;
+}
+
+#testimonials {
+
+    background-color: blue;
+    color: #fff;
+  }
+  .testimonial-text {
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+  .testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+
+  .carousel-item {
+    padding: 7% 15%;
+  }
+
+  #footer {
+      height: 400;
+  }
